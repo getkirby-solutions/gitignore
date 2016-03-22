@@ -8,10 +8,10 @@ node_modules
 # kirby #
 ############
 # these file names will be reserved
-**/accounts/**
-**/avatars/**
-**/thumbs/**
-**/content/**
+**/accounts/*
+**/avatars/*
+**/thumbs/*
+**/content/*
 
 # Packages #
 ############
