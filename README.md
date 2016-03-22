@@ -1,2 +1,3 @@
 # gitignore
-gitignore example
+
+Gitignore example for kirby. It also works for multisite.
